@@ -1,0 +1,16 @@
+{
+    "namaLengkap" : "Ulfa Nur Rohma",
+    "alamat " : "Serangan, Sukorejo, Ponorogo",
+    "prodi " :  "Informatika",
+    "usia " : 21,
+    "lulus " : false,
+    "mataKuliah " : [
+        "Pemrograman website",
+        "Algoritma Pemrograman",
+        "Kapita Selekta"
+    ],
+    "nilai" : {
+        "Aljabar Linier" : "AB",
+        "Logika Metematika " : "A"
+    }
+}

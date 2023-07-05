@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tugas Praktikum</title>
+        <script>
+            function cekNilai(){
+                var nilai, hasil;
+                nilai = parseInt(document.formNilai.inputNilai.value);
+                if(nilai < 0 || nilai > 100){
+                    hasil = "Inputan terlalu kecil / Inputan terlalu besar";
+                }else if (nilai <= 20){
+                    hasil = "E";
+                } else if(nilai <= 40){
+                    hasil = "D";
+                } else if(nilai <= 60){
+                    hasil = "C";
+                } else if(nilai <= 80){
+                    hasil = "B";
+                } else{
+                    hasil = "A";
+                }
+                document.formNilai.viewNilai.value = hasil;
+            }
+        </script>
+    </head>
+    <body>
+        <form name="formNilai">
+            <table>
+                <tr>
+                    <td>Masukkan Nilai Anda</td>
+                    <td>: <input type="text" name="inputNilai"></td>
+                </tr>
+                <tr>
+                    <td colspan="2"><input type="button" value="Konversi" onclick="cekNilai()"></td>
+                </tr>
+                <tr>
+                    <td>Hasil Nilai</td>
+                    <td>: <input type="text" name="viewNilai" readonly></td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>

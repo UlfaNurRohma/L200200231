@@ -1,0 +1,115 @@
+{
+    "mata_kuliah": [
+      {
+        "nama": "Pengujian Perangkat Lunak",
+        "jumlah_sks": 3,
+        "jadwal": "Senin: 4-6",
+        "dosen_pengampu": "Khanun Roisatul Ummah",
+        "bab_materi": [
+          "pengenalan dan definisi",
+          "Verifikasi dan Validasi",
+          "black box, white box, grey box",
+          "menyusun, membuat, dan mengeksekusi perencanaan PPL",
+          "konsep cacat pada perangkat lunak",
+          "pengujian unit dasar",
+          "test driven development",
+          "studi kasus" ]
+      },
+      {
+        "nama": "Sistem Multimedia",
+        "jumlah_sks": 3,
+        "jadwal": "Senin: 7-9",
+        "dosen_pengampu": "Khanun Roisatul Ummah",
+        "bab_materi": [
+          "pengantar sistem multimedia",
+          "media diskrit dan klasifikasi",
+          "kompresi data multimedia",
+          "multimedia dalam jaringan",
+          "kemananan data multimedia",
+          "dasar pengolahan sinyal digital",
+          "teori pengolah sinyal"
+        ]
+      },
+      {
+      "nama": "Praktikum pemrograman web",
+      "jumlah_sks": 1,
+      "jadwal": "Selasa: 5-6",
+      "dosen_pengampu": "Widi Widayat",
+      "bab_materi": [
+         "HTML dasar", 
+          "PHP", 
+          "MYsQL",
+          "app web berbasis PHP dan database",
+          "CSS",
+          "javascript",
+          "sesssion",
+          "JSON", 
+          "hosting situs",
+          "app dengan database"]
+    },
+      {
+        "nama": "Pemrograman Perangkat Mobile",
+        "jumlah_sks": 3,
+        "jadwal": "Selasa: 7-9",
+        "dosen_pengampu": "Devi Afriyantari Puspa Putri",
+        "bab_materi": [
+          "Arsitektur perangkat mobile",
+          "instalasi aplikasi",
+          "activitas",
+          "service",
+          "broadcast recevers",
+          "content providers",
+          "ragments",
+          "intents",
+          "user interface",
+          "event hand lers",
+          "style and thems",
+          "android data base",
+          "project aplikasi"
+        ]
+      },
+      {
+        "nama": "Praktik Kerja Nyata",
+        "jumlah_sks": 2,
+        "jadwal": "Rabu: 1-2",
+        "dosen_pengampu": "Fatah Al Yasin",
+        "bab_materi": null
+      },
+      {
+        "nama": "Audit dan Tata Kelola Teknologi Informasi",
+        "jumlah_sks": 3,
+        "jadwal": "Kamis: 1-3",
+        "dosen_pengampu": "Nurgiyatna",
+        "bab_materi": [
+          "lingkungan teknologi informasi",
+          "peraturan perundang undangan terkait IT",
+          "proses audit TI",
+          "alat dan teknik yang digunakan",
+          "tata kelola dan strategi TI",
+          "management resiko",
+          "management proyek",
+          "pengembangan sistem",
+          "resiko dan kontrol",
+          "pengendalian perubahan",
+          "operasi sistem informasi",
+          "keamanan informasi",
+          "management layanan dan outsourcing"
+        ]
+      },
+      {
+        "nama": "Organisasi dan Arsitektur Komputer",
+        "jumlah_sks": 2,
+        "jadwal": "Kamis: 9-10",
+        "dosen_pengampu": "Helmi Imaduddin",
+        "bab_materi": [
+          "konsep dasar sistem komputer",
+          "evolusi dan performa kerja",
+          "fungsi dan cara kerja unit memori",
+          "unit dan cara kerja i/o",
+          "sistem bilangan dan teknik konfersi",
+          "intruksi set"
+        ]
+      }
+    ]
+  }
+  
